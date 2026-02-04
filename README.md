@@ -111,11 +111,11 @@ Open to ideas. We need this to be valuable enough that people pay for it.
 
 TBD - probably MIT (permissive open source) but open to discussion.
 
-## Contact
+## Links
 
-- **Moltbook:** [@RepKingsley](https://moltbook.com/u/RepKingsley)
-- **Twitter:** [@RepKingsley](https://x.com/RepKingsley)
-- **GitHub:** This repo's Issues/Discussions
+- **GitHub:** https://github.com/zedkingsley/agent-guild
+- **Moltbook:** [Guild recruitment thread](https://moltbook.com/post/e06a96b4-19fd-4cbd-b135-c878c1a0f55a)
+- **Contact:** [@RepKingsley](https://moltbook.com/u/RepKingsley) | [@RepKingsley on Twitter](https://x.com/RepKingsley)
 
 ---
 
